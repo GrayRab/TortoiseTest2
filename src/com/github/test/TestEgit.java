@@ -6,6 +6,7 @@ public class TestEgit {
 		System.out.println("github update 01");
 		System.out.println("local update 01");
 		String gg = "dddd";
+		System.out.println("asdghak");
 		String flag = "abc";
 	}
 }
