@@ -8,5 +8,6 @@ public class TestEgit {
 		String gg = "dddd";
 		System.out.println("asdghak");
 		String flag = "abc";
+		System.out.println("asaadgad");
 	}
 }
