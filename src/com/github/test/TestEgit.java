@@ -8,5 +8,6 @@ public class TestEgit {
 		System.out.println("local update 01");
 		String gg = "dddd";
 		String flag = "abc";
+		System.out.println("asaadgad");
 	}
 }
