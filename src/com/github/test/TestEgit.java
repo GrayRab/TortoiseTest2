@@ -5,6 +5,6 @@ public class TestEgit {
 		int a = 1;
 		System.out.println("github update 01");
 		System.out.println("local update 01");
-		String massage = "abc";
+		
 	}
 }
